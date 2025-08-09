@@ -2,7 +2,6 @@ import pandas as pd
 import plotly.express as px
 import streamlit as st
 import numpy as np
-import pycountry
 
 # Configuração da página
 st.set_page_config(
@@ -184,4 +183,5 @@ st.sidebar.markdown(
     - Plotly & Pandas
     """
 )
+
 
