@@ -161,27 +161,6 @@ st.markdown(
     unsafe_allow_html=True
 )
 
-# Informações adicionais na sidebar
-st.sidebar.markdown("---")
-st.sidebar.markdown(
-    """
-    ### ℹ️ Sobre este Dashboard
-    
-    **Funcionalidades:**
-    - 📊 Análise de salários anual
-    - 🏢 Filtros por senioridade
-    - 📝 Tipos de contrato
-    - 📈 Métricas em tempo real
-    
-    **Dados:**
-    - Fonte: Dataset de salários
-    - Atualizações: Dinâmicas
-    
-    **Tecnologias:**
-    - Python 
-    - Streamlit 
-    - Plotly & Pandas
-    """
-)
+
 
 
