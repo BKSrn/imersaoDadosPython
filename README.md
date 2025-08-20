@@ -56,5 +56,3 @@ Se você tiver algum feedback, por favor me deixe saber por meio de bekist2006@g
 
 ## Autor
 - [@BKSrn](https://github.com/BKSrn)
-
-[RETORNAR⬆️](imersaodadospython)
